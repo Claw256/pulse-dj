@@ -1,6 +1,6 @@
 # Dependencies
 aiolifx-repo/
-os2l/
+/os2l/
 
 # Python
 __pycache__/
@@ -42,4 +42,3 @@ python-sounddevice_docs/
 VirtualDJ_OS2L_Docs/
 *.md
 !README.md
-setup_wsl_network.ps1
